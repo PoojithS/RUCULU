@@ -1,0 +1,54 @@
+[
+    {
+        "package": "flask",
+        "version": "2.0.2",
+        "deps": [
+            {
+                "package": "colorama",
+                "version": "0.4.4"
+            },
+            {
+                "package": "jinja2",
+                "version": "3.0.3"
+            },
+            {
+                "package": "click",
+                "version": "8.0.3"
+            },
+            {
+                "package": "werkzeug",
+                "version": "2.0.2"
+            },
+            {
+                "package": "markupsafe",
+                "version": "2.0.1"
+            },
+            {
+                "package": "itsdangerous",
+                "version": "2.0.1"
+            }
+        ]
+    },
+    {
+        "package": "requests",
+        "version": "2.27.1",
+        "deps": [
+            {
+                "package": "certifi",
+                "version": "2021.10.8"
+            },
+            {
+                "package": "idna",
+                "version": "3.3"
+            },
+            {
+                "package": "charset-normalizer",
+                "version": "2.0.11"
+            },
+            {
+                "package": "urllib3",
+                "version": "1.26.8"
+            }
+        ]
+    }
+]

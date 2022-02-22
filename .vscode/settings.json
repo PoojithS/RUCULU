@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a6ae4297-0995-4035-b59c-cf9552bc514f/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/ruchulu",
+    "appService.deploySubpath": "."
+}
